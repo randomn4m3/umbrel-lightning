@@ -15,7 +15,7 @@
   "author": "",
   "dependencies": {
     "aezeed": "^0.0.5",
-    "axios": "^0.26.1",
+    "axios": "^1.6.0",
     "big.js": "^6.1.1",
     "bitcoind-rpc": "^0.9.1",
     "camelize-keys": "^1.0.0",
